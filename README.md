@@ -6,7 +6,7 @@
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![Arch Linux](https://img.shields.io/badge/Linux%20Mint-FFFFFF?style=flat-square&logo=linux-mint&logoColorFFCCFF&labelColor=FFFFFF))](https://www.linuxmint.com/)
+[![Arch Linux](https://img.shields.io/badge/Linux%20Mint-FFFFFF?style=flat-square&logo=linux-mint&logoColorFFCCFF&labelColor=FFFFFF)](https://www.linuxmint.com/)
 [![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/big-sur/)
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios14/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
