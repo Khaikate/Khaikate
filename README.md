@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Khaikate&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 - 👋 Hi, I’m @Khaikate burh burh lmao
-- 👀 I’m interested in Hackintosh and Open Source Android
+- 👀 I’m interested in dark burh lmao
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: khaikate2@gmail.com
