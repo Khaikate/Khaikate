@@ -12,5 +12,5 @@
 
 
 ### 📱 Devices
-[![Samsung S9+](https://img.shields.io/badge/Samsung%20S9+-FF6699?style=flat-square&logo=samsung&logoColor=0066FF&labelColor=FFFFFF)](https://www.samsung.com/vn/support/model/SM-G965FZKDXXV/)
+[![Samsung Note 8](https://img.shields.io/badge/Samsung%20Note%208-FF6699?style=flat-square&logo=samsung&logoColor=0066FF&labelColor=FFFFFF)](https://www.samsung.com/vn/support/model/SM-N950FZKDXXV/)
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
