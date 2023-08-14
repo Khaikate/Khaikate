@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Khaikate dark dark burh burh lmao
+### my github profile
+- 👋 Hello, KẹpTócNhỏXinh is here!
+
+- 📱 Device : blueline (Google Pixel 3)
+- i'm really noob on android development
 - `<Telegram>` : <https://t.me/khaikate>
 
 ### 💻 Environment
