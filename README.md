@@ -10,5 +10,3 @@
 
 ### 📱 Devices
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-[![Vsmart Joy 3](https://img.shields.io/badge/Vsmart%20Joy%203-00C000?style=flat-square&logo=vsmart&logoColor=FFFFFF&labelColor=00C000)](https://www.vsmart.net/vi/vsmart-joy-3)
-
