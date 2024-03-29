@@ -1,7 +1,7 @@
 ### my github profile
 - 👋 Hello, KẹpTócNhỏXinh is here!
 
-- 📱 Device : blueline (Google Pixel 3)
+- 📱 Device : Lavender, Mido, Plato, Iphone 12, J200GU, OPPO A37
 - i'm really noob on android development
 - `<Telegram>` : <https://t.me/khaikate>
 
